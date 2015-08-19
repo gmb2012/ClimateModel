@@ -1,0 +1,21 @@
+{
+  "name": "climateModel",
+  "version": "1.0.0",
+  "description": "ClimateModel for QlockTwo",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmb2012/climateModel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gmb2012/climateModel/issues"
+  },
+  "homepage": "https://github.com/gmb2012/climateModel#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "mongoose": "^4.1.2"
+  }
+}
